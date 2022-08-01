@@ -5,7 +5,9 @@
 We have talked about different data types, how to use them, and the kinds of operations that we can perform on them. We have also talked about using Booleans (`True` or `False`) to inform decisions in our programming. Often when we want to implement a decision in our code, we'll use conditionals. Conditionals allow us to break up our code in a way that we can selectively perform operations like assigning a value or even just printing text.
 
 ## Objectives
+
 You will be able to:
+
 * Use Python conditional statements
 
 ## Execution Flow
