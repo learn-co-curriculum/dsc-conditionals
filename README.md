@@ -52,7 +52,7 @@ On line 1 we assign `vacation_days` the value `0`. So, on line two, we reassign 
 ## If Statement
 In Python there are three conditional statements, `if`, `elif`, and `else`. Every conditional statement is required to begin with an `if`. The `elif` and `else` statements are not always required. `elif` is short for **else if**.
 
-Now what if we wanted to only increment our vacation days based on a condtion? We could imagine a condition in this context being whether or not we hit our goals this quarter at work. If that condition were `True`, we would want to increase our vacation days. However, if that condition is not `True`, we can't increase our vacation time. Let's look at the code below that contains an `if` statement. 
+Now what if we wanted to only increment our vacation days based on a condition? We could imagine a condition in this context being whether or not we hit our goals this quarter at work. If that condition were `True`, we would want to increase our vacation days. However, if that condition is not `True`, we can't increase our vacation time. Let's look at the code below that contains an `if` statement. 
 
 Code that is part of an `if` statement *block* runs only when the condition evaluates to `True`. So if the condition evaluates to `False` our block of code will not be run and it moves on to the next block. 
 
